@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 이동훈 포트폴리오
-<img src="https://github.com/opencv256/opencv256/assets/118248807/c568a138-d6dc-4a5b-a844-9459f9b9b2c8" width="60%" height="40%">
+<img src="https://github.com/opencv256/opencv256/assets/118248807/c568a138-d6dc-4a5b-a844-9459f9b9b2c8" width="40%" height="40%">
 
 </br>
 
